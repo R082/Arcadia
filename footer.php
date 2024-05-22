@@ -20,8 +20,8 @@
                 <p>Samedi et dimanche:10h-18h</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col">
+        <div class="row" style="background-image: url('Images/boardwalk-2775982_640.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+            <div class="col" style="color: white; font-weight: bold;">
                 <p>&copy; Arcadia<br> 1960-<span id="currentYear"></span>.<br> Tous droits réservés.</p>
             </div>
         </div>

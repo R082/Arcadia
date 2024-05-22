@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <header class="navbar navbar-expand-md navbar-light  px-3">
+    <header class="navbar navbar-expand-md navbar-light  px-3;"color: white; font-weight: bold;"background-image: url('Images/boardwalk-2775982_640.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center;" >
         <a href="index.php" class="navbar-brand logo">
             <img src="Images/logo/singe.jpg" alt="Logo Zoo Arcadia" width="100" height="100">
             
