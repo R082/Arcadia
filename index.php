@@ -52,7 +52,12 @@
     
 
 </body>
+<h1>Liste des avis</h2>
+<h3>Ajouter un avis en cliquant </h3>
+<?php include 'avis.php'; ?>
+
 <footer class="footer">
+    
     <?php include 'footer.php'?>
 </footer>
 
