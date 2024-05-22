@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <p>&copy; Arcadia<br><span id="currentYear"></span>.<br> tous droits réservés.</p>
+                <p>&copy; Arcadia<br> 1960-<span id="currentYear"></span>.<br> Tous droits réservés.</p>
             </div>
         </div>
         <script>

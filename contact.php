@@ -40,7 +40,7 @@
                         placeholder="Votre message (facultatif)"></textarea>
                 </div>
                 <div class="col-12 mb-3">
-                    <button class="btn " type="submit">Envoyer</button>
+                    <button class="btn btn-primary" type="submit">Envoyer</button>
                 </div>
             </div>
         </form>

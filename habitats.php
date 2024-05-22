@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-12 col-md-4">
                 <div class="card mb-3">
-                    <img src="" class="card-img-top" alt="Savane">
+                <img src="Images/savane.jpg" alt="Savane" style="width: 50%;">
                     <div class="card-body">
                         <h5 class="card-title">Habitat de la savane</h5>
                         <p class="card-text">La savane est un habitat caractérisé par de vastes plaines herbeuses et des arbres dispersés. La savane offre un paysage spectaculaire et une biodiversité unique. Découvrez cet habitat fascinant et observez de près la vie sauvage qui s'y épanouit.</p>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-12 col-md-4">
                 <div class="card mb-3">
-                    <img src="" class="card-img-top" alt="JUNGLE">
+                    <img src="Images/jungle.png" alt="Jungle"style="width: 50%;">
                     <div class="card-body">
                         <h5 class="card-title">Habitat de la jungle</h5>
                         <p class="card-text">La jungle est un habitat dense et luxuriant, rempli de végétation tropicale et d'une grande diversité d'animaux. C'est un écosystème fascinant où la vie sauvage prospère.</p>
@@ -39,7 +39,7 @@
             </div>
             <div class="col-12 col-md-4">
                 <div class="card mb-3">
-                    <img src="" class="card-img-top" alt="Savane">
+                    <img src="Images/marais.jpg" alt="Marais"style="width: 50%;">
                     <div class="card-body">
                         <h5 class="card-title">Habitat des marais</h5>
                         <p class="card-text">Les marais sont un habitat humide et marécageux, abritant une grande variété de plantes et d'animaux aquatiques. C'est un écosystème unique où vous pouvez observer des oiseaux migrateurs, des poissons, des reptiles et bien d'autres espèces. Explorez la beauté tranquille des marais et découvrez la richesse de la vie sauvage qui s'y trouve.</p>
